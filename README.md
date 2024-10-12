@@ -4,7 +4,8 @@
 
 This repository contains the development and implementation details of **WISE.AI**, a GenAI-powered tool designed to support children with ADHD in managing emotional control, time management, and daily task scheduling. WISE.AI provides personalized strategies and recommendations, bridging the executive function gap for children facing these challenges.
 
-Main [Product Requirements Document (PRD)](https://github.com/AICarope/Generative-Artificial-Intelligence-GenAI-Project/blob/main/Gen%20AI%20WISE.AI%20PRD%20v.3.pdf) 
+## Materials
+You can access the materials here [Product Requirements Document (PRD)](https://github.com/AICarope/Generative-Artificial-Intelligence-GenAI-Project/blob/main/Gen%20AI%20WISE.AI%20PRD%20v.3.pdf) 
     
 <img src="https://github.com/user-attachments/assets/9d3a6531-6379-49d5-bcde-0fcbd5d10143" alt="description" width="500"/>
 
