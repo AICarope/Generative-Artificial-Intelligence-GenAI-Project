@@ -6,7 +6,8 @@ This repository contains the development and implementation details of **WISE.AI
 
 Main [Product Requirements Document (PRD)](https://github.com/AICarope/Generative-Artificial-Intelligence-GenAI-Project/blob/main/Gen%20AI%20WISE.AI%20PRD%20v.3.pdf) 
     
-![alt text](https://github.com/user-attachments/assets/b7dd3ffa-50fd-4a6c-ab52-8447f7e53e25 "Image Title")
+![image](https://github.com/user-attachments/assets/9d3a6531-6379-49d5-bcde-0fcbd5d10143)
+
 
 ## Key Features
 
