@@ -7,7 +7,7 @@ This repository contains the development and implementation details of **WISE.AI
 ## Materials
 You can access the materials here [Product Requirements Document (PRD)](https://github.com/AICarope/Generative-Artificial-Intelligence-GenAI-Project/blob/main/Gen%20AI%20WISE.AI%20PRD%20v.3.pdf) 
 
-## Prototype for Patient Workflow    
+## Prototype     
 <img src="https://github.com/user-attachments/assets/9d3a6531-6379-49d5-bcde-0fcbd5d10143" alt="description" width="500"/>
 
 ## Key Features
